@@ -16,7 +16,7 @@ public class MyTestCases {
 	String singUpPage = "https://magento.softwaretestingboard.com/customer/account/create/";
 	String myWebsite1 = "https://www.google.co.uk/";
 	String[] firstNames = { "ahmad", "ali", "anas", "omar", "ayat", "alaa", "marah", "rama" };
-	String[] LastNames = { "osama", "zain", "mo7md", "leen", "asma" };
+	String[] LastNames = { "osama", "zain", "mo7md", "leen", "asma" ,"ABOOL"};
 	Random rand = new Random();
 	// int mynumber = rand.nextInt(8);
 
