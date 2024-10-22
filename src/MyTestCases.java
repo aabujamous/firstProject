@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class MyTestCases {
-	//ABOOL
+	
 
 	WebDriver driver = new ChromeDriver();
 
